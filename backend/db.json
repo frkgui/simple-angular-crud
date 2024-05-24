@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Caneta BIC (Preta ou Vermelha)",
+      "brand": "BIC",
+      "price": 2.5
+    },
+    {
+      "id": "2",
+      "name": "Caneta (Fina) Stabilo (Preta)",
+      "brand": "BIC",
+      "price": 6.99
+    },
+    {
+      "id": "3",
+      "name": "Estojo (Homem Aranha) Vermelho",
+      "price": "10.00"
+    },
+    {
+      "id": "4",
+      "name": "Mochila (ADIDAS), Preta",
+      "price": "99.90"
+    },
+    {
+      "id": "6",
+      "name": "Teclado Mecânico (Razer), RGB",
+      "price": "821.90"
+    },
+    {
+      "id": "7",
+      "name": "Disco - Blonde (CD), Frank Ocean",
+      "price": "49.90"
+    },
+    {
+      "id": "8",
+      "name": "Edredom - Homem Aranha (MARVEL) ",
+      "price": "169.99"
+    },
+    {
+      "id": "10",
+      "name": "Yeezy Pods ",
+      "price": "20"
+    }
+  ]
+}
