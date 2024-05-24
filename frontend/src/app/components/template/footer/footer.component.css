@@ -1,0 +1,11 @@
+.footer{
+    bottom: 0;
+    display: flex;
+    justify-content: flex-end;
+    background-color: black;
+    position:absolute;
+}
+.footer > span{
+    font-weight: 300;
+    font-size: 1rem;
+}

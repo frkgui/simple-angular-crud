@@ -1,0 +1,12 @@
+
+.mdc-button--raised:not(:disabled), .mdc-button--unelevated:not(:disabled) {
+    background-color: #424242;
+}
+button{
+   margin-bottom: 30px;
+
+}
+.button-new{
+    display: flex;
+    justify-content: end;
+}

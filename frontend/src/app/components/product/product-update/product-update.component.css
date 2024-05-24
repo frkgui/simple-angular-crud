@@ -1,0 +1,28 @@
+button{
+
+    margin-top: 10px;
+
+    
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+mat-card{
+    padding: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+}
+mat-card-title{
+    padding-bottom: 20px;
+}
+.button-div{
+
+    display: flex;
+    flex-direction: column;
+
+}
+button.update{
+    background-color: #212bbd;
+}
